@@ -10,6 +10,5 @@ License: Artistic-2.0
 LazyData: true
 Collate: 
 	'startEpivizEC2.R'
-	'utils.R'
 
 
