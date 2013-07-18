@@ -1,0 +1,15 @@
+<!--
+%\VignetteEngine{knitr::knitr}
+%\VignetteIndexEntry{Epivizr bioc2013 practical notes}
+-->
+
+Two notes on the Epivizr bioc2013 practical
+===================================================================
+
+The URL for part 1 exercise is [http://epiviz.cbcb.umd.edu/?workspace=0271BFB50384DE1DB4A3D712702D0E34](`http://epiviz.cbcb.umd.edu/?workspace=0271BFB50384DE1DB4A3D712702D0E34`).
+
+The command to start Epiviz on the EC2 instance is
+
+```{r,eval=FALSE}
+mgr <- startEpivizEC2(workspace = "C60FA3168F34DBC763F579C1EADA8AF0")
+```

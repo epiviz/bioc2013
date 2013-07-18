@@ -4,7 +4,8 @@ Description: Materials used in epivizr afternoon practical session in Bioconduct
 Version: 0.1
 Author: Hector Corrada Bravo
 Maintainer: Hector Corrada Bravo <hcorrada@gmail.com>
-Depends: R (>= 3.0.1), epivizr
+VignetteBuilder: knitr
+Depends: R (>= 3.0.1), epivizr, knitr
 License: Artistic-2.0
 LazyData: true
 Collate: 
